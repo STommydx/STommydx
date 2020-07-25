@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Tommy Li who is currently a final year undergraduate student in HKUST. Feel free to check out my projects.
+
+- [A simple photo editing software written in Qt](https://github.com/STommydx/photo-editing-software)
+- [A RESTful API for library management](https://github.com/STommydx/2020S-COMP4111)
+- [Presentation on Functional Programming in C++](https://github.com/STommydx/comp4111-presentation)
+
+Connect me on [LinkedIn](https://www.linkedin.com/in/tommyli74/) to learn more about me. :smile:
 
 <!--
 **STommydx/STommydx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
