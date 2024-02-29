@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Tommy Li who is currently a final year undergraduate student in HKUST. Feel free to check out my projects.
+I am a software engineer that is passionate of building reliable software deployed on reproducible infrastructure. Feel free to check out my projects.
 
-- [A simple photo editing software written in Qt](https://github.com/STommydx/photo-editing-software)
-- [A RESTful API for library management](https://github.com/STommydx/2020S-COMP4111)
-- [Presentation on Functional Programming in C++](https://github.com/STommydx/comp4111-presentation)
+- [NixOS configuration for reproducible configuration on my desktop](https://github.com/STommydx/nix-config)
+- [API toolkit for creating profolio websites and resumes](https://github.com/STommydx/FolioForge)
+- [Technical Presentation on Functional Programming in C++](https://github.com/STommydx/comp4111-presentation)
 
 Connect me on [LinkedIn](https://www.linkedin.com/in/tommyli74/) to learn more about me. :smile:
 
